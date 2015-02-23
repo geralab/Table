@@ -30,8 +30,6 @@ int main()
 	unsigned int length = 0;
 	string hold;
 	unsigned int number = 0;
-	int fieldWidth = 0;
-	unsigned int blankspace = 0;
     
 	cout << "What is the maximum multible: ";
 	cin >> length;
